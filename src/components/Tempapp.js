@@ -5,13 +5,13 @@ import "./css/style.css";
 const Tempapp=()=>{
       
       const [city,setCity]=useState("null")
-      const[search,setSearch]=useState("pune")
+      const[search,setSearch]=useState("mumbai")
       setTimeout(() => {
           
       }, 1000);
       useEffect(()=>{
           const fetchApi =async()=>{
-            const response = await fetch(`http://api.weatherapi.com/v1/current.json?key=80ee285d7c3b40ef8fc124553211812&q=${search}&aqi=no`)
+            const response = await fetch(`https://api.weatherapi.com/v1/current.json?key=80ee285d7c3b40ef8fc124553211812&q=${search}&aqi=no`)
               const resJson= await response.json();
                setCity(resJson.current)
                 
