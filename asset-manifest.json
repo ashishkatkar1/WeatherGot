@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WeatherGot/static/css/main.3a489841.chunk.css",
+    "main.js": "/WeatherGot/static/js/main.c411f8bc.chunk.js",
+    "main.js.map": "/WeatherGot/static/js/main.c411f8bc.chunk.js.map",
+    "runtime-main.js": "/WeatherGot/static/js/runtime-main.e0b82c2b.js",
+    "runtime-main.js.map": "/WeatherGot/static/js/runtime-main.e0b82c2b.js.map",
+    "static/js/2.77d75c3b.chunk.js": "/WeatherGot/static/js/2.77d75c3b.chunk.js",
+    "static/js/2.77d75c3b.chunk.js.map": "/WeatherGot/static/js/2.77d75c3b.chunk.js.map",
+    "static/js/3.67ba8eb8.chunk.js": "/WeatherGot/static/js/3.67ba8eb8.chunk.js",
+    "static/js/3.67ba8eb8.chunk.js.map": "/WeatherGot/static/js/3.67ba8eb8.chunk.js.map",
+    "index.html": "/WeatherGot/index.html",
+    "static/css/main.3a489841.chunk.css.map": "/WeatherGot/static/css/main.3a489841.chunk.css.map",
+    "static/js/2.77d75c3b.chunk.js.LICENSE.txt": "/WeatherGot/static/js/2.77d75c3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0b82c2b.js",
+    "static/js/2.77d75c3b.chunk.js",
+    "static/css/main.3a489841.chunk.css",
+    "static/js/main.c411f8bc.chunk.js"
+  ]
+}
